@@ -28,11 +28,11 @@ To deploy this project, simply open the index.html file in your browser.
 
 ## Demo
 
-Check out the live demo of the application at "https://saiavinash1308.github.io/To-do-list-CodingNinjas/" to see it in action.
+Check out the live demo of the application at (https://viveksharma8755.github.io/To-Do-list/) to see it in action.
 
 
 ## Authors
 
 - @viveksharma8755
-- 
+ 
 
